@@ -50,6 +50,9 @@ p {
     margin-left: 25px;
 }
 
+/* Defines the background img source link and dimensions
+ */
+ 
 .hero {
     height: 800px;
     width: 100%;
@@ -74,6 +77,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+/* Properties for the benefit class define by the following */
 
 .benefits {
     margin-right: 20px;
@@ -133,6 +138,8 @@ Defines the following elements font color and size
     max-height: 200px;
 }
 
+/* Sets margin position and font size elements with H2 */
+
 .search-engine-optimization h2,
 .online-reputation-management h2,
 .social-media-marketing h2 {
@@ -140,7 +147,7 @@ Defines the following elements font color and size
     font-size: 36px;
 }
 
-/*Defines the footer dimensions, color an font characteristics on the page*/
+/*Defines the footer dimensions, color and font characteristics on the page*/
 .footer {
     padding: 30px;
     clear: both;
@@ -148,6 +155,7 @@ Defines the following elements font color and size
     text-align: center;
 }
 
+/* Defines the font size for the footer section */
 .footer h2 {
     font-size: 20px;
 }
